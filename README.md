@@ -31,6 +31,8 @@ Here are some awesome tools for dealing with CSV:
 
 ## Tools
 
+- [Utility Matrix CSV Schema Validator](https://utility-matrix.com/workbenches/csv-schema-validator/) - Free local-browser CSV validation against user-supplied required-field, number, date, email and numeric-bound rules; exports row errors.
+
 - [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
