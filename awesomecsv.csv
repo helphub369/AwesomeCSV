@@ -1,4 +1,5 @@
 Category,Name,URL,Description
+Awesome CSV Tools,Utility Matrix CSV Schema Validator,https://utility-matrix.com/workbenches/csv-schema-validator/,"Free local-browser CSV validation using a supplied rules table, with row-level CSV or JSON error reports."
 Awesome CSV Tools,NimbleText/Live,https://NimbleText.com/Live,"Use patterns to manipulate CSV; the world's simplest code generator"
 Awesome CSV Tools,PapaParse,https://www.papaparse.com,"A powerful in-browser CSV parser"
 Awesome CSV Tools,CSVKit,http://csvkit.readthedocs.org/en/0.7.3/,"CSV utilities that includes csvsql / csvgrep / csvstat and more"
